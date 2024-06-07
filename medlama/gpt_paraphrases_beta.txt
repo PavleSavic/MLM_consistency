@@ -1,0 +1,212 @@
+To generate paraphrases for each of these medical relations while preserving their meanings, I'll provide 9 alternative ways to express each relation. Here are the paraphrases for each relation listed in the file:
+
+### 1. disease_has_normal_tissue_origin
+1. Disease originates from normal tissue
+2. Disease arises from normal tissue
+3. Disease starts in normal tissue
+4. Normal tissue is the origin of the disease
+5. Disease has its source in normal tissue
+6. Normal tissue serves as the origin for the disease
+7. Disease is derived from normal tissue
+8. Disease traces back to normal tissue
+9. The origin of the disease is normal tissue
+
+### 2. disease_has_normal_cell_origin
+1. Disease originates from normal cells
+2. Disease arises from normal cells
+3. Disease starts in normal cells
+4. Normal cells are the origin of the disease
+5. Disease has its source in normal cells
+6. Normal cells serve as the origin for the disease
+7. Disease is derived from normal cells
+8. Disease traces back to normal cells
+9. The origin of the disease is normal cells
+
+### 3. disease_may_have_molecular_abnormality
+1. Disease may involve molecular abnormality
+2. Disease can have molecular abnormality
+3. Disease might present molecular abnormality
+4. Disease could show molecular abnormality
+5. Disease may exhibit molecular abnormality
+6. Molecular abnormality may be present in disease
+7. Disease may demonstrate molecular abnormality
+8. Disease potentially has molecular abnormality
+9. Molecular abnormality might be seen in disease
+
+### 4. disease_has_associated_anatomic_site
+1. Disease is linked to an anatomic site
+2. Disease is associated with an anatomic site
+3. Anatomic site is connected to the disease
+4. Disease occurs at an anatomic site
+5. Anatomic site has an association with the disease
+6. Disease is found in an anatomic site
+7. Anatomic site is related to the disease
+8. Disease manifests in an anatomic site
+9. The anatomic site is where the disease is found
+
+### 5. gene_product_has_associated_anatomy
+1. Gene product is linked to an anatomy
+2. Gene product is associated with an anatomy
+3. Anatomy is connected to the gene product
+4. Gene product relates to an anatomy
+5. Anatomy has an association with the gene product
+6. Gene product is found in an anatomy
+7. Anatomy is related to the gene product
+8. Gene product manifests in an anatomy
+9. The anatomy is where the gene product is found
+
+### 6. gene_product_has_biochemical_function
+1. Gene product exhibits biochemical function
+2. Gene product has a role in biochemical function
+3. Biochemical function is associated with the gene product
+4. Gene product performs biochemical function
+5. Gene product is responsible for biochemical function
+6. Biochemical function is carried out by the gene product
+7. Gene product engages in biochemical function
+8. Gene product displays biochemical function
+9. The biochemical function is exhibited by the gene product
+
+### 7. may_prevent
+1. Can prevent
+2. Might prevent
+3. Could prevent
+4. Is able to prevent
+5. Has the potential to prevent
+6. Possibly prevents
+7. May be preventive
+8. Has the capacity to prevent
+9. Potentially prevents
+
+### 8. disease_may_have_associated_disease
+1. Disease might be linked with another disease
+2. Disease may be associated with another disease
+3. Disease could have a related disease
+4. Disease can have an associated disease
+5. Another disease may be linked to this disease
+6. Disease might exhibit an associated disease
+7. Disease may have a related disease
+8. Disease could be associated with another disease
+9. Disease potentially has an associated disease
+
+### 9. gene_associated_with_disease
+1. Gene is linked to disease
+2. Gene is associated with disease
+3. Disease is connected to the gene
+4. Gene is related to disease
+5. Disease has an association with the gene
+6. Gene is found in disease
+7. Disease is related to the gene
+8. Gene is implicated in disease
+9. The disease is associated with the gene
+
+### 10. disease_mapped_to_gene
+1. Disease is linked to a gene
+2. Disease corresponds to a gene
+3. Gene is associated with the disease
+4. Disease is connected to a gene
+5. Gene mapping shows the disease
+6. Disease has a mapped gene
+7. Disease aligns with a gene
+8. Disease is traced to a gene
+9. Gene is identified for the disease
+
+### 11. disease_has_abnormal_cell
+1. Disease contains abnormal cells
+2. Abnormal cells are present in disease
+3. Disease exhibits abnormal cells
+4. Abnormal cells characterize the disease
+5. Disease is defined by abnormal cells
+6. Disease includes abnormal cells
+7. Abnormal cells are found in disease
+8. Disease shows abnormal cells
+9. Abnormal cells occur in disease
+
+### 12. gene_product_plays_role_in_biological_process
+1. Gene product is involved in biological process
+2. Gene product participates in biological process
+3. Biological process involves gene product
+4. Gene product contributes to biological process
+5. Gene product is a part of biological process
+6. Biological process includes gene product
+7. Gene product takes part in biological process
+8. Biological process features gene product
+9. Gene product has a function in biological process
+
+### 13. occurs_after
+1. Happens after
+2. Takes place after
+3. Follows
+4. Comes after
+5. Succeeds
+6. Happens subsequently
+7. Occurs subsequently
+8. Appears after
+9. Takes place subsequently
+
+### 14. has_physiologic_effect
+1. Exhibits physiologic effect
+2. Causes physiologic effect
+3. Produces physiologic effect
+4. Physiologic effect is present
+5. Results in physiologic effect
+6. Leads to physiologic effect
+7. Shows physiologic effect
+8. Brings about physiologic effect
+9. Physiologic effect occurs
+
+### 15. may_treat
+1. Can treat
+2. Might treat
+3. Could treat
+4. Is able to treat
+5. Has the potential to treat
+6. Possibly treats
+7. May be therapeutic
+8. Has the capacity to treat
+9. Potentially treats
+
+### 16. gene_product_encoded_by_gene
+1. Gene product is encoded by gene
+2. Gene encodes the gene product
+3. Gene product results from gene
+4. Gene product derives from gene
+5. Gene product originates from gene
+6. Gene product is a product of gene
+7. Gene product is synthesized by gene
+8. Gene is responsible for gene product
+9. Gene produces the gene product
+
+### 17. gene_encodes_gene_product
+1. Gene produces gene product
+2. Gene synthesizes gene product
+3. Gene generates gene product
+4. Gene is responsible for gene product
+5. Gene results in gene product
+6. Gene creates gene product
+7. Gene manufactures gene product
+8. Gene leads to gene product
+9. Gene product comes from gene
+
+### 18. associated_morphology_of
+1. Related morphology of
+2. Morphology associated with
+3. Morphology linked to
+4. Morphology related to
+5. Connected morphology of
+6. Morphology corresponding to
+7. Morphology tied to
+8. Morphology pertinent to
+9. Relevant morphology of
+
+### 19. disease_may_have_finding
+1. Disease might present with finding
+2. Disease may show finding
+3. Disease could have finding
+4. Disease can present finding
+5. Finding may be associated with disease
+6. Disease might exhibit finding
+7. Disease may demonstrate finding
+8. Disease could present with finding
+9. Finding could be seen in disease
+
+These paraphrases should help ensure a robust evaluation of the Masked Language Model's ability to understand and predict medical relations.
